@@ -19,3 +19,4 @@
 - Yasuhito Endo
 - Roger Federer
 - Shota Morishita
+- Takanori Nagase
